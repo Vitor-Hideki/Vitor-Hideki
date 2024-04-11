@@ -1,6 +1,6 @@
 ## Olá ! Sou vitor Hideki Desenvolvedor Front-End👋
 
-- 🔭 Migração de carreira.
+- 🔭 Transição de carreira.
 - 🌱 Atualmente estou aprendendo JavaScript
   
 <br>
